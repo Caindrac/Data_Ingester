@@ -1,0 +1,14 @@
+{
+    "example": [
+        {
+            "function": "dask_example",
+            "function_variables": {
+                "mongo_address": "127.0.0.1", 
+                "mongo_port": 27017, 
+                "db_name": "Data_Ingester", 
+                "collection_name": "Table_P3-sumLevel_140", 
+                "csv_location": "data/table_P3/sumLevel_140/*.csv"
+            }
+        }
+    ]
+}
